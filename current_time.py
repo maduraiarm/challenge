@@ -1,5 +1,3 @@
-# filename: current_time.py
-
 from datetime import datetime
 
 def show_current_time():
